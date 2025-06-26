@@ -1,5 +1,5 @@
 # deep-thought
-
+    site is live at https://harshini-karan.github.io/deep-thought/
 ## Description
 Task1: Webpage creation
 1.  You are given a Figma file with the page design
